@@ -10,7 +10,6 @@
         "-sharing",
         "flexible-alerts",
         "auto-scroll-table",
-        "lightbox",
         "uml"
     ],
     "pluginsConfig": {

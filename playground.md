@@ -71,7 +71,6 @@ note left: shost 上的 live migration 正式完成
 @enduml
 ```
 
-### Openstack架构图
 ```plantuml
 @startuml
 skinparam roundcorner 25
