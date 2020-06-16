@@ -1,0 +1,21 @@
+
+{    "plugins": [
+        "hide-element",
+        "expandable-chapters",
+        "splitter",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "mermaid-gb3",
+        "-sharing",
+        "flexible-alerts",
+        "auto-scroll-table",
+        "lightbox",
+        "uml"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
+}
